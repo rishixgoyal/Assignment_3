@@ -1,13 +1,28 @@
 /*********************************************************************************
- *  WEB322 – Assignment 02
- *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source
- *  (including 3rd party web sites) or distributed to other students.
- *
- *  Name:Rishi Goyal Student ID: 163430218 Date: 16 June 2023
- *
- *  Online (Cyclic) Link: 
- *
- ********************************************************************************/
+
+* WEB322 – Assignment 03
+
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
+
+* of this assignment has been copied manually or electronically from any other source
+
+* (including 3rd party web sites) or distributed to other students.
+
+*
+
+* Name: Rishi Goyal Student ID: 163430218 Date: 16 June 2023
+
+*
+
+* Cyclic Web App URL: 
+
+*
+
+* GitHub Repository URL: 
+
+*
+
+********************************************************************************/
 const express = require("express");
 const multer = require("multer");
 const cloudinary = require("cloudinary").v2;
