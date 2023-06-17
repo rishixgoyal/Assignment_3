@@ -14,7 +14,7 @@
 
 *
 
-* Cyclic Web App URL: 
+* Cyclic Web App URL:https://gold-dugong-yoke.cyclic.app 
 
 *
 
